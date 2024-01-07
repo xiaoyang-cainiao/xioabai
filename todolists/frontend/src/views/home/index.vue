@@ -327,7 +327,7 @@ const handleBtn1Click = () => {
 };
 
 const handleBtn2Click = () => {
-  window.location.href = 'https://www.google.com';
+  window.location.href = 'https://github.com/xiaoyang-cainiao/xioabai/tree/master/wechat/src';
 };
 
 </script>
